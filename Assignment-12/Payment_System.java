@@ -26,7 +26,7 @@ class CashPayment extends Payment {
     }
 }
 
-public class Main {
+public class Payment_System {
     public static void main(String[] args) {
         // Create objects of all child classes
         CreditCardPayment cc = new CreditCardPayment();
